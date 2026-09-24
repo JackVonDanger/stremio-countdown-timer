@@ -1,8 +1,9 @@
 # Stremio Countdown Timer
 
-A Stremio Enhanced plugin that tracks inactivity, pauses playback, and exits the player if there is no response.
+A Stremio Enhanced plugin that automatically monitors your activity while watching. After a customizable period of inactivity, it pauses playback and asks if you're still watching.
+If there is no response after 2 minutes, the plugin automatically exits the player.
 
----
+<br><br>
 
 ## Features
 
@@ -16,7 +17,7 @@ A Stremio Enhanced plugin that tracks inactivity, pauses playback, and exits the
 
 The timer only runs while video playback is active. User interaction with the player resets the inactivity timer.
 
----
+<br><br>
 
 ## Installation
 
@@ -35,7 +36,8 @@ The timer only runs while video playback is active. User interaction with the pl
     - Drag and drop it into your local Stremio Enhanced plugins folder.
     - Enable it and restart Stremio to apply changes.
 
----
+<br><br>
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
