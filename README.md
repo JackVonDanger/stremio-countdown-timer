@@ -5,6 +5,13 @@ If there is no response after 2 minutes, the plugin automatically exits the play
 
 <br><br>
 
+## Preview
+
+![Arrow](screenshots/arrow.png)
+![Dialog](screenshots/dialog.png)
+
+<br><br>
+
 ## Features
 
 - ⏱️ Countdown timer button integrated into the Stremio player
