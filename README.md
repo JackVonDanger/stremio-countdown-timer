@@ -20,7 +20,7 @@ The timer only runs while video playback is active. User interaction with the pl
   
 1. Via Stremio Enhanced Marketplace (Recommended)
 
-  - Open the Stremio Enhanced Community Marketplace (Settings → Scroll to the bottom)
+    - Open the Stremio Enhanced Community Marketplace (Settings → Scroll to the bottom)
   - Search for Countdown Timer
   - Click Install
   - Enable it and restart Stremio to apply changes.
